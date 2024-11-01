@@ -1,0 +1,6 @@
+1. Commands
+
+verilator --lint-only lfsr.sv
+
+- Compiler's syntax check
+- Syntax and semantic checking of your systemverilog code without generating any simulation code. 
